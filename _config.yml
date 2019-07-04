@@ -21,7 +21,7 @@ location:           United States
 email:              cassandra_seney@berkeley.edu # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image:   "https://cassandraseney.github.io/wildfire/images/bg.jpg"
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
