@@ -3,7 +3,7 @@ layout: post
 title:  "Capturing the Weather"
 date:   2019-06-06
 excerpt: "Generating very localized weather measurements for more precise wildfire risk estimates."
-image: "https://cassandraseney.github.io/wildfire/images/cloudy.jpg"
+image: "https://cassandraseney.github.io/wildfire/images/weather.jpg"
 author: "Cassie Seney"
 ---
 
