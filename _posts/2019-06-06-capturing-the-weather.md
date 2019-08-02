@@ -22,16 +22,16 @@ Weather stations vary in the frequency with which they collect observations, fro
 Extraction, transformation and mapping of weather features to S2 cells resulted in a table of more than 11 million rows of daily S2 cell weather measurements over three years.
 
 
-References:
+### References
 
-PG&E letter to PCUC, 2018, url: https://www.cpuc.ca.gov/uploadedFiles/CPUCWebsite/Content/News_Room/NewsUpdates/2018/11-27-18%20PGE%20PSPS%20Report.pdf
+[PG&E letter to California Public Utilities Commission](https://www.cpuc.ca.gov/uploadedFiles/CPUCWebsite/Content/News_Room/NewsUpdates/2018/11-27-18%20PGE%20PSPS%20Report.pdf), 2018
 
-USDA Forest Service, Red Flag Warning/National Fire Danger Rating System, url: https://www.fs.usda.gov/detail/ltbmu/news-events/?cid=FSEPRD594171
+[USDA Forest Service, Red Flag Warning/National Fire Danger Rating System](https://www.fs.usda.gov/detail/ltbmu/news-events/?cid=FSEPRD594171) 
 
-CAL Fire Communications May 2019, Camp Fire Cause, url: https://calfire.ca.gov/communications/downloads/newsreleases/2019/CampFire_Cause.pdf
+CAL Fire Communications May 2019, [Camp Fire Cause](https://calfire.ca.gov/communications/downloads/newsreleases/2019/CampFire_Cause.pdf)
 
-National Weather Service Fire Zones - Northern California, url: https://www.weather.gov/source/pimar/FireZone/ca_n_firezone.jpg
+[National Weather Service Fire Zones - Northern California](https://www.weather.gov/source/pimar/FireZone/ca_n_firezone.jpg)
 
-National Weather Service Fire Zones - Southern California, url: https://www.weather.gov/source/pimar/FireZone/ca_s_firezone.jpg
+[National Weather Service Fire Zones - Southern California](https://www.weather.gov/source/pimar/FireZone/ca_s_firezone.jpg)
 
-Synoptic Data timeseries API, url: https://developers.synopticdata.com/mesonet/v2/stations/timeseries/
+[Synoptic Data timeseries API](https://developers.synopticdata.com/mesonet/v2/stations/timeseries/)
