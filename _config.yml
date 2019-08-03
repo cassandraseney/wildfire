@@ -4,8 +4,8 @@ bio:                'Wildfire management project'
 description:        "Wildfire management project"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://cassandraseney.github.io/wildfire" # the base hostname & protocol for your site
-url: "http://www.wildfirerisktool.com/"
+url: "https://cassandraseney.github.io/wildfire" # the base hostname & protocol for your site
+#url: "http://www.wildfirerisktool.com/"
 
 # Comments
 disqus_shortname:   default
