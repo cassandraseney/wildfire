@@ -7,11 +7,53 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-	<h1>Wildfire Risk Technology</h1>
+	<h2>Wildfire Risk Technology</h2>
 	<p>Collecting and transforming data, consolidating and modelling predictions, and finally visualizing the product involved a variety of technological solutions.</p>
 
-	## Data Pipeline
-	To produce the data for the WildFire Risk Tool, we implemented an ingestion pipeline that pulls the data we need, integrates it and feeds it to a learning model that powers our recommendations.
+	<h3>Data Pipeline</h3>
+	<p>To produce the data for the WildFire Risk Tool, we implemented an ingestion pipeline that pulls the data we need, integrates it and feeds it to a learning model that powers our recommendations.</p>
+
+	<img src="https://cassandraseney.github.io/wildfire/images/pipeline.jpg" height="499", width="581">
+
+	<p>At the extraction layer, we used <a href="https://jupyter.org/">Jupyter notebooks</a> written in Python. Each data source was pulled and processed, taking advantage of APIs available to gather the data.</p> 
+
+	<p>We used publicly available data provided by the following sources:</p>
+	<ul>
+		<li><a href="https://developers.synopticdata.com/">Synoptic Data</a> - Provides timeseries API access to geophysical and environmental information, particularly weather data.</li> 
+		<li><a href="https://land.copernicus.eu/global/products/fapar">Copernicus Global Land Service</a> - Provides access to satellite data particularly a quantification of “the fraction of the solar radiation absorbed by the leaves for photosynthesis” called FAPAR. FAPAR values are used by the team as a proxy for vegetation cover in an area.</li>
+		<li><a href="https://cecgis-caenergy.opendata.arcgis.com/datasets/california-electric-transmission-line">California Energy Commission</a> - Provides transmission line geospatial data.</li> 
+		<li><a href="https://www.fire.ca.gov/">The California Department of Forestry and Fire Protection (CalFire)</a> - Provides a historical database of wildfire perimeters.</li>
+		<li><a href="http://www.wfas.net/index.php/national-fuel-moisture-database-moisture-drought-103">US Forest Service</a> - Provides the National Fuel Moisture database</li>
+	</ul>
+
+	<p>Once data cleaning and transformation was complete, the data was uploaded to <a href="https://cloud.google.com/bigquery/">Google Big Query</a>, our Big Data solution. The data was either loaded directly, or by using <a href="https://cloud.google.com/storage/">Google Cloud Storage</a> as intermediary storage. Once in Google Big Query, our data became available as tables which could be queried using SQL.</p>
+
+	<img src="https://cassandraseney.github.io/wildfire/images/GBQ.jpg" height="385", width="586">
+
+	<p>In Google Big Query, we consolidated the individual tables into a single table which was easier for creating machine learning models and visualization.</p>
+
+	<h3>Modelling and Computation</h3>
+
+	<p>For feature engineering and modelling, we loaded data from the consolidated table into a <a href="https://cloud.google.com/compute/">Google Compute Engine</a> where we implemented modelling to output a prediction table. The prediction table, alongside the consolidated and detailed weather and transmission data, were then used to create our dashboard product.</p>
+
+	<h3>Visualization</h3>
+
+	<p>To create our dashboards we used Tableau workbooks and stories. Our product was uploaded to Tableau Public and embedded into our website.</p>
+
+	<p>For  our website and documentation, we’ve made use of <a href="https://jekyllrb.com/">Jekyll</a> to move our text content into a static webpage to frame our Tableau dashboards. Jekyll makes the design of websites easy through themes, and this website makes use of the <a href="https://iwiedenm.github.io/jekyll-theme-massively/">massively theme</a>. Our website is hosted on GitHub Pages.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
