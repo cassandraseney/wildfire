@@ -4,7 +4,8 @@ bio:                'Wildfire management project'
 description:        "Wildfire management project"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cassandraseney.github.io/wildfire" # the base hostname & protocol for your site
+#url: "https://cassandraseney.github.io/wildfire" # the base hostname & protocol for your site
+url: "http://www.wildfirerisktool.com/"
 
 # Comments
 disqus_shortname:   default
@@ -21,7 +22,8 @@ location:           United States
 email:              cassandra_seney@berkeley.edu # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   "https://cassandraseney.github.io/wildfire/images/bg.jpg"
+#background_image:   "https://cassandraseney.github.io/wildfire/images/bg.jpg"
+background_image: "http://www.wildfirerisktool.com/images/bg.jpg"
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
