@@ -7,6 +7,8 @@ image: "https://cassandraseney.github.io/wildfire/images/weather.jpg"
 author: "Cassie Seney"
 ---
 
+_Image credit: [Tom Barrett](https://unsplash.com/photos/hgGplX3PFBg)_
+
 Weather conditions are one of the most important factors in determining wildfire risk. A shift in weather conditions can alleviate the threat of wildfire or escalate the risk. As climate change increases the prevalence of drought and higher temperatures, weather conditions conducive to wildfire have become more common.
 
 Ensuring that we collected all the most relevant weather measurements involved research into publications by the National Weather Service, USDA Forest Service, utility companies and fire investigation reports. In [a letter to the California Public Utilities Commission](https://www.cpuc.ca.gov/uploadedFiles/CPUCWebsite/Content/News_Room/NewsUpdates/2018/11-27-18%20PGE%20PSPS%20Report.pdf) (2018) the utility company Pacific Gas & Electric listed weather conditions they considered before shutting off power to include low humidity levels, sustained high winds and strong wind gusts, and low precipitation. The [National Forest Service](https://www.fs.usda.gov/detail/ltbmu/news-events/?cid=FSEPRD594171) flags high fire risk based on high temperatures, dry conditions, low humidity and strong winds. CAL FIRE determined the [cause of The Camp Fire](https://calfire.ca.gov/communications/downloads/newsreleases/2019/CampFire_Cause.pdf) to be electrical transmission lines in dry vegetation with strong winds, low humidity and warm temperatures. The key weather factors related to wildfire are air temperature, precipitation, relative humidity, wind speed and wind gusts.
