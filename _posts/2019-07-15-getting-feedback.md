@@ -7,6 +7,8 @@ image: "https://cassandraseney.github.io/wildfire/images/feedback.jpg"
 author: "Jay Zuniga"
 ---
 
+_Image credit: [TLC Jonhson](https://www.flickr.com/photos/160246067@N08/41095436615/in/photolist-25BsRyB-4C95CY-RHY4DS-7zAR2x-oQLAK8-6kwHNk-djQnkv-7P6fi9-7CdXkX-ckFumq-sutKnU-smcUL7-ewEkqv-oEgWWQ-rKnSH-Z4nRPd-e7tqc2-hqxA7P-jg5M9Z-YMmdJv-2i2tBB-aVXMPa-2i6Txd-4pCsHG-q15KWf-2A246o-jpkXLU-aaJpEQ-bZ7Emh-tvmeS-jQNnKy-bgsKRR-2A26hu-dY1TLs-6ZhUZh-23PALHb-8jdrhM-9YVBRL-bG6TRD-acXAMw-2A2W6m-29T5zqQ-2A2Wcw-5pdHB-8HS6t-8jgFTf-4jV5Md-8NpfR-2aYEQzt-ptmtYk)_
+
 The WildFire Risk Assessment tool was built to assist public utility companies make informed decisions about when turning off utility equipment might help avoid igniting a fire. As a far second, we thought the tool would be helpful to government agencies that were helping oversee public utilities, in order to check the wisdom of decisions made by utility companies in relation to fire risk. It was therefore really important to get feedback from utility companies as to what they thought of the tool.
 
 However, that did not come to be.
