@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Feedback"
 date:   2019-07-15
-excerpt: "Empowering utility companies using wildfire risk visualization."
+excerpt: "Creative approaches to obtaining feedback."
 image: "https://cassandraseney.github.io/wildfire/images/feedback.jpg"
 author: "Jay Zuniga"
 ---
