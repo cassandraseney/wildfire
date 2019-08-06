@@ -2,12 +2,12 @@
 layout: post
 title:  "Modeling Wildfire Risk"
 date:   2019-07-05
-excerpt: "The impact of wildfires continues to escalate as utility companies struggle to manage risk."
+excerpt: "Building a model to predict wildfire risk."
 image: "http://www.wildfirerisktool.com/images/modeling.jpg"
 author: "Nicholas Conidas"
 ---
 
-_Image credit: []()_
+_Image credit: [Akritasa](https://commons.wikimedia.org/wiki/File:Single-layer_feedforward_artificial_neural_network.png)_
 
 One of the foundational components of our project was a machine learning model that would output the predicted wildfire risk at each S2 cell every day. 
 
