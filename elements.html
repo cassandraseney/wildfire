@@ -13,7 +13,7 @@ sitemap:
 	<h3>Data Pipeline</h3>
 	<p>To produce the data for the WildFire Risk Tool, we implemented an ingestion pipeline that pulls the data we need, integrates it and feeds it to a learning model that powers our recommendations.</p>
 
-	<img src="https://cassandraseney.github.io/wildfire/images/pipeline.jpg" height="499", width="581">
+	<img src="http://www.wildfirerisktool.com/images/pipeline.jpg" height="499", width="581">
 
 	<p>At the extraction layer, we used <a href="https://jupyter.org/">Jupyter notebooks</a> written in Python. Each data source was pulled and processed, taking advantage of APIs available to gather the data.</p> 
 
@@ -28,7 +28,7 @@ sitemap:
 
 	<p>Once data cleaning and transformation was complete, the data was uploaded to <a href="https://cloud.google.com/bigquery/">Google Big Query</a>, our Big Data solution. The data was either loaded directly, or by using <a href="https://cloud.google.com/storage/">Google Cloud Storage</a> as intermediary storage. Once in Google Big Query, our data became available as tables which could be queried using SQL.</p>
 
-	<img src="https://cassandraseney.github.io/wildfire/images/GBQ.jpg" height="385", width="586">
+	<img src="http://www.wildfirerisktool.com/images/GBQ.jpg" height="385", width="586">
 
 	<p>In Google Big Query, we consolidated the individual tables into a single table which was easier for creating machine learning models and visualization.</p>
 
