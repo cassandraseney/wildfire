@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Feedback"
 date:   2019-07-15
 excerpt: "Creative approaches to obtaining feedback."
-image: "https://cassandraseney.github.io/wildfire/images/feedback.jpg"
+image: "http://www.wildfirerisktool.com/images/feedback.jpg"
 author: "Jay Zuniga"
 ---
 

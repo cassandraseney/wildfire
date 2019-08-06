@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Transmission Lines"
-date:   2019-06-10
+date:   2019-05-25
 excerpt: "Transmission Line shapefile conversion."
-image: "https://cassandraseney.github.io/wildfire/images/transmission-lines.jpg"
+image: "http://www.wildfirerisktool.com/images/transmission-lines.jpg"
 author: "Yulia Zamriy"
 ---
 

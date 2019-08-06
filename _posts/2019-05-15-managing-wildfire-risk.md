@@ -3,7 +3,7 @@ layout: post
 title:  "Managing Wildfire Risk"
 date:   2019-05-15
 excerpt: "The impact of wildfires continues to escalate as utility companies struggle to manage risk."
-image: "https://cassandraseney.github.io/wildfire/images/blog1.jpg"
+image: "http://www.wildfirerisktool.com/images/blog1.jpg"
 author: "Wildfire Team"
 ---
 

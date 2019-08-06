@@ -3,7 +3,7 @@ layout: post
 title:  "Building A Dashboard"
 date:   2019-07-06
 excerpt: "Empowering utility companies using wildfire risk visualization."
-image: "https://cassandraseney.github.io/wildfire/images/dashboard.jpg"
+image: "http://www.wildfirerisktool.com/images/dashboard.jpg"
 author: "Cassie Seney"
 ---
 

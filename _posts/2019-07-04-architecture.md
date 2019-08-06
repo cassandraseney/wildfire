@@ -3,7 +3,7 @@ layout: post
 title:  "Wildfire System Architecture"
 date:   2019-07-04
 excerpt: "Infrastructure for building a wildfire risk prediction system."
-image: "https://cassandraseney.github.io/wildfire/images/architecture.jpg"
+image: "http://www.wildfirerisktool.com/images/architecture.jpg"
 author: "Jay Zuniga"
 ---
 
@@ -29,7 +29,7 @@ We ended up using three products:
 
 Our architecture can be seen in the following diagram.
 
-![Pipeline](https://cassandraseney.github.io/wildfire/images/pipeline.jpg)
+![Pipeline](http://www.wildfirerisktool.com/images/pipeline.jpg)
 
 The group evaluated one more GCP product, Data Studio, which could have been our visualization tool. However, we found its handling of geospatial data a bit more clumsy than Tableau - so we opted for the latter for our charts.
 
