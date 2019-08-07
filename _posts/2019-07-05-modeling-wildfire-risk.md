@@ -52,7 +52,7 @@ Ultimately, we chose a model that had the best balance of performance and simpli
 |                  | Logistic Regression | Feed Forward Neural Network |
 |                  | (Baseline)          | (Final)                     |
 |-----------------:|:-------------------:|:---------------------------:|
-| Precision        | 0.0007              | .00045                      |
-| Recall           | 0.13                | .69                         |
+| Precision        | 0.0007              | .00052                      |
+| Recall           | 0.13                | .76                         |
 
 
