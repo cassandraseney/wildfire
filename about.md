@@ -41,4 +41,4 @@ Tableau Software for their student version and free public web hosting which we 
 
 Google Cloud for our cloud-based tools: Cloud Storage, BigQuery and Compute Engine.
 
-Last but definitely not the least, our teachers Joyce Chen and David Steier. Your support, suggestions, directions, feedback and advice have been critical in the project. It’s no exaggeration to say without you, none of this would have happened. Thank you so much.
+Last but definitely not the least, our teachers Joyce Shen and David Steier. Your support, suggestions, directions, feedback and advice have been critical in the project. It’s no exaggeration to say without you, none of this would have happened. Thank you so much.
